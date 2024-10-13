@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 Currently working on a web project utilizing HTML, CSS, Javascript, PHP and MySQL
+- 🌱 Currently learning about network and cybersecurity
+- ⚡ Interested in technological advancements and AI
+## 
 <!--
 **yi-yangg/yi-yangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
